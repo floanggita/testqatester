@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Recent logins</name>
+   <tag></tag>
+   <elementGuidId>d6fb1458-e2a6-424f-897a-9ce8146cf861</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div._8e63._ihd._6s</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5970be22-a0c6-4887-9209-216ccdcaa944</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_8e63 _ihd _6s</value>
+      <webElementGuid>9ae5dff4-98e8-48a9-82b1-4c26b5278ab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Recent logins</value>
+      <webElementGuid>2d8ea519-fc20-442f-9430-b05c5ed8a02c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[1]/div[@class=&quot;_95k9 _8esf _8f3m _8ilg _8icx _95kc _95kb&quot;]/div[@class=&quot;_5aj7 _m--&quot;]/div[@class=&quot;_4bl9 _ihf&quot;]/div[@class=&quot;_8e63 _ihd _6s&quot;]</value>
+      <webElementGuid>04c8a9f4-d957-476b-be4d-98a507a298d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/div/div/div[2]</value>
+      <webElementGuid>c38eb2d9-0f26-418d-9e83-4231395bb9cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click your picture or add an account.'])[1]/preceding::div[1]</value>
+      <webElementGuid>0b49e512-cc43-4a32-83e4-9178da10c402</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Altering'])[1]/preceding::div[2]</value>
+      <webElementGuid>5f15b454-2586-419a-b1bc-ef682ee4d8f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Recent logins']/parent::*</value>
+      <webElementGuid>dc3d4cc0-d7e7-4d3d-a981-ca0c8b171bd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>851ab76a-1666-4ce1-9cc0-a629c02847df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Recent logins' or . = 'Recent logins')]</value>
+      <webElementGuid>3b18bc1f-70b9-4d86-8d63-d4bdfd4722d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
